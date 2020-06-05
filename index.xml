@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>the hoopoe</title>
+    <link>https://drhoopoe.github.io/</link>
+      <atom:link href="https://drhoopoe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>the hoopoe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy Noah Gardiner 2020</copyright>
+    <image>
+      <url>https://drhoopoe.github.io/images/logo_hu1bff82ac797936e2cc8a24f08ced245f_12693_300x300_fit_lanczos_2.png</url>
+      <title>the hoopoe</title>
+      <link>https://drhoopoe.github.io/</link>
+    </image>
+    
+  </channel>
+</rss>
