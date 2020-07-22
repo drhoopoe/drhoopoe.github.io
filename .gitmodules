@@ -1,0 +1,3 @@
+[submodule "homeFork"]
+	path = homeFork
+	url = https://github.com/drhoopoe/homeFork.git
